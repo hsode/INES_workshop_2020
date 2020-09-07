@@ -45,12 +45,15 @@ This is not a course for advanced NorESM users.
 
 Please follow the links below and make sure that you install all the required software packages
 
-- [Bash](https://coderefinery.github.io/installation/bash/)
-- [Editor](https://coderefinery.github.io/installation/editors/)
+(Need a short guide on setting up the environments and tools on FRAM and NIRD)
+
+- Bash (Bash environments?)
+- Editor: [VIM or others?](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including some configuration
 - [Microsoft Teams](#)
-
-
+- Other tools
+    * On NIRD: CDO and NCO are installed and loaded by default;
+    * On FRAM: module load ?
 
 ### Instructors
 
@@ -74,7 +77,4 @@ Please follow the links below and make sure that you install all the required so
 - Jørund Strømsøe
 - Alok Gupta
 - Yanchun He
-
-
-
 
