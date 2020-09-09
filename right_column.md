@@ -50,7 +50,9 @@ Please follow the links below and make sure that you install all the required so
 - Bash (Bash environments?)
 - Editor: [VIM or others?](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including some configuration
-- [Microsoft Teams](#)
+- Meeting softwares:
+    * [Microsoft Teams ?](#)
+    * [Zoom ?](#)
 - Other tools
     * On NIRD: CDO and NCO are installed and loaded by default;
     * On FRAM: module load ?
