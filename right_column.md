@@ -59,10 +59,12 @@ Please follow the links below and make sure that you install all the required so
 
 ### Instructors
 
-- Mats Bentsen/Dirk Olivie
+- Mats Bentsen
 - Alok Gupta
 - Yanchun He
 - Ada Gjermundsen
+- Tomas Torsvik
+- Dirk Olivié
 - TBA
 
 ### Helpers
@@ -74,8 +76,8 @@ Please follow the links below and make sure that you install all the required so
 - TBA
 
 ### Organizers
-- Michael Schulz
 - Mats Bentsen
+- Michael Schulz
 - Jørund Strømsøe
 - Alok Gupta
 - Yanchun He
