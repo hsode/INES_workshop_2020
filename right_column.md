@@ -2,7 +2,7 @@
 
 ### Location
 
-Virtually online via Microsoft Teams
+Virtually online via [Zoom](https://zoom.us/)
 
 (_Meeting link will be sent to the accepted particpants before the workshop_)
 
@@ -48,11 +48,12 @@ Please follow the links below and make sure that you install all the required so
 (Need a short guide on setting up the environments and tools on FRAM and NIRD)
 
 - Bash (Bash environments?)
-- Editor: [VIM or others?](https://coderefinery.github.io/installation/editors/)
+- [Editor](https://coderefinery.github.io/installation/editors/):
+    * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html) Easy to start with, but limited functionality
+    * [Vim](https://www.openvim.com/) Very capable editor, requires some effort to get started
 - [Git](https://coderefinery.github.io/installation/git/), including some configuration
 - Meeting softwares:
-    * [Microsoft Teams ?](#)
-    * [Zoom ?](#)
+    * [Zoom](https://zoom.us/)
 - Other tools
     * On NIRD: CDO and NCO are installed and loaded by default;
     * On FRAM: module load ?
