@@ -8,9 +8,9 @@
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 <a class="btn btn-success" href="https://skjemaker.app.uib.no/view.php?id=8805572" data-mode="1" target="_blank">Register here</a>
 -->
-<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
-
-([28 participants registered]({{ site.baseurl }}/participants/), 18/09/2020)
+<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a> \
+(26 participants registered, 18/09/2020)\
+[Click here]({{ site.baseurl }}/participants/) to see the the list of groups for the exercise sessions.
 
 ### Format
 
@@ -20,7 +20,7 @@ exercises.
 
 **The workshop is held virtually online via [Zoom](https://zoom.us/)**
 
-(<mark>Meeting link of Zoom will be sent to the accepted particpants individually</mark>)
+(<mark>Meeting link of Zoom will be sent to the accepted particpants individually. You have to sign in Zoom to connect to the meeting</mark>)
 
 ### Schedule
 (<mark>The training materials will be uploaded before/after lectures. </mark>)
@@ -74,7 +74,8 @@ exercises.
   <span style="color:royalblue"> Lunch break </span>
 
 ---
-Common session with [INES](https://www.ines.noresm.org) meeting
+Common session with [INES](https://www.ines.noresm.org) meeting \
+(<mark>Zoom meeting link will be send seperately. </mark>)
 
 - 13:00 - 13:30 (_Mats Bentsen, NORCE_)\
 <span style="color:royalblue"> Welcome and introduction </span>

@@ -41,7 +41,7 @@ Also introduce the best practices and tools to contribute the development of doc
 - Linux Shell: Bash or Csh, etc
     * You should be able to navigate the file tree in a terminal session and edit text files in the terminal.
     * This [Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html) ([video](https://youtu.be/56p6xX0aToI)) contains the essentials.
-- [Editor](https://coderefinery.github.io/installation/editors/):
+- [Editor](https://coderefinery.github.io/installation/editors/): (chose one of the following)
     * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html): Easy to start with, but limited functionality
     * [Vim](https://www.openvim.com/): Very capable editor, requires some effort to get started
 - Source version control
@@ -49,7 +49,7 @@ Also introduce the best practices and tools to contribute the development of doc
     * It is useful if you have a basic idea of how Git works, but please go through [this Git-refresher material](https://coderefinery.github.io/git-refresher/) for a basic overview and important configuration steps.
 -   * [Github](https://www.github.com) is for collaborative work for software development and hosts NorESM sources.
 - Meeting softwares
-    * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop.
+    * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop. <mark> You have to signed in to be able to connect to this Zoom meeting </mark>
     * [HackMD](https://hackmd.io) will be used to write questions and answers. Please register a user account at HackMD before the workshop.
 
 ### Helpers
@@ -63,5 +63,6 @@ Also introduce the best practices and tools to contribute the development of doc
 - Michael Schulz
 - Jørund Strømsøe
 - Alok Gupta
+- Jean Iaquinta
 - Yanchun He
 
