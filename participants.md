@@ -10,7 +10,7 @@ There are 26 registered national and international partipants from:
 *  China (CAS)
 
 ### Groups for hands-on participants
-(with name initials; ignore the following if you are not attending exercise sessions)\
+(with fistname.lastname initials; ignore the following if you are not attending exercise sessions)\
 When login Zoom, please mark the group number in your name appear in the Zoom participants list\
 e.g., firstname lastname (1) \
 so that we can add you to the breakout rooms during the hands-on/exercise session.
@@ -18,7 +18,9 @@ so that we can add you to the breakout rooms during the hands-on/exercise sessio
 **Group-1:**
 * D.Z.
 * F.H.
+* G.S.
 * N.T.
+* S.U
 * Z.Z.
 
 **Group-2:**
