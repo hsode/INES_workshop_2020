@@ -10,10 +10,6 @@
 -->
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 
-### Contact
-
-yanchun.he@@ners.no
-
 ### Format
 
 Hands-on informal and interactive online two and a half day event with 
@@ -28,49 +24,58 @@ with the online documentations.
 Also introduce the best practices and tools to contribute the development of documentation and code of NorESM
 
 ### Schedule
+(<mark>The training materials will be uploaded before/after lectures, and the following links will be updated </mark>)
 
-Day 1 (September 21, Monday)
+**Day 1 (September 21, Monday)**
 - 9:00 - 9:30
-  [Introductions to the development of NorESM2.](#)
+  Introductions to the development of NorESM2.(#)
   (Mats Bentsen)
 - 9:30 - 10:15
-  [Presentation on new NorESM e-resources.](#)
+  Presentation on new NorESM e-resources.(#)
   (Dirk Olive and Ada Gjermundsen)
 - 10:15 - 10:30
   Coffee break
 - 10:30 - 12:00
-  [Workflow on running NorESM2.](#)
+  Workflow on running NorESM2.(#)
   (Alok Gupta)
 - 12:00 - 13:00
   Lunch break
 - 13:00 - 15:30
-  [Exercise 1.](#)
+  Exercise 1.({{ site.baseurl }}/#/)
   (Helpers)
 
-Day 2 (September 22, Tuesday)
+**Day 2 (September 22, Tuesday)**
 - 9:00 - 12:00
-  [Exercise 2.](#)
+  Exercise 2.(#)
   (Helpers)
 - 12:00 - 13:00
   Lunch break
 
 - 13:00 - 14:00
-  [Post-processing and diagnostics for NorESM output.](#)
+  Post-processing and diagnostics for NorESM output.(#)
   (Yanchun He)
 - 14:00 - 14:15
   Break
 - 14:15 - 15:30
-  [Exercise 3.](#)
+  Exercise 3.(#)
   (Helpers)
 
-Day 3 (September 23, Wednesday)
+**Day 3 (September 23, Wednesday)**
 - 9:00 - 10:15
-  [Exercise 4.](#)
+  Exercise 4.(#)
   (Helpers)
 - 10:15 - 10:30
   Coffee break
 - 10:30 - 12:00
-  [Presentation and discussion on how to contribute to NorESM](*)
+  Presentation and discussion on how to contribute to NorESM (#)
     * Part 1: contribution to code (Tomas Torsvik) (10:30-11:15)
     * Part 2: contribution to documentation (Ada Gjermundsen) (11:15-12:00)
+
+### Instructors
+- Mats Bentsen
+- Alok Gupta
+- Yanchun He
+- Ada Gjermundsen
+- Tomas Torsvik
+- Dirk Olivié
 

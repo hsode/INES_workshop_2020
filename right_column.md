@@ -41,40 +41,26 @@ This is not a course for advanced NorESM users.
 -->
 
 ### **Software requirements**
-(<mark>This part need to be improved</mark>)
 
-Please follow the links below and make sure that you install all the required software packages
+<mark>Please get familiar with the following softwares.</mark>
 
-(Need a short guide on setting up the environments and tools on FRAM and NIRD)
-
-- Bash (Bash environments?)
+- Linux Shell: Bash or Csh, etc
+    * You should be able to navigate the file tree in a terminal session and edit text files in the terminal.
+    * This [Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html) ([video](https://youtu.be/56p6xX0aToI)) contains the essentials.
 - [Editor](https://coderefinery.github.io/installation/editors/):
-    * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html) Easy to start with, but limited functionality
-    * [Vim](https://www.openvim.com/) Very capable editor, requires some effort to get started
-- [Git](https://coderefinery.github.io/installation/git/), including some configuration
+    * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html): Easy to start with, but limited functionality
+    * [Vim](https://www.openvim.com/): Very capable editor, requires some effort to get started
+- Source version control
+-   * [Git](https://git-scm.com) is version control tool for source code and is already installed in the HPC server during the workshop
+-   * [Github](www.github.com) is for collaborative work for software development and hosts NorESM sources.
 - Meeting softwares:
-    * [Zoom](https://zoom.us/)
-- Other tools
-    * On NIRD: CDO and NCO are installed and loaded by default;
-    * On FRAM: module load ?
-
-### Instructors
-
-- Mats Bentsen
-- Alok Gupta
-- Yanchun He
-- Ada Gjermundsen
-- Tomas Torsvik
-- Dirk Olivié
-- TBA
+    * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop.
 
 ### Helpers
-
 - Tomas Torsvik
 - Jerry Tjiputra
 - Aleksi Nummelin
 - Ada Gjermundsen
-- TBA
 
 ### Organizers
 - Mats Bentsen
