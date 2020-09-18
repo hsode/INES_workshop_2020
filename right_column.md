@@ -1,17 +1,3 @@
-
-
-### Location
-
-Virtually online via [Zoom](https://zoom.us/)
-
-(_Meeting link will be sent to the accepted particpants before the workshop_)
-
-
-### Cost
-
-Workshop registration is free of charge. As this is held online, no travel and accommodation is needed.
-
-
 ### Who the course is for
 
 Ph.D student, postdocs and scientists who are interested in executing model simulations and learning more about technical aspects around it.
@@ -21,6 +7,14 @@ We can accept a maximum of 30 students based on their knowledge of using HPC mac
 ### What we will not teach
 
 This is not a course for advanced NorESM users.
+
+### Course goals
+
+The aim of this course is to demonstrate to the workshop
+participants on the workflow to run the NorESM2 and diagnose its output
+with the online documentations.
+
+Also introduce the best practices and tools to contribute the development of documentation and code of NorESM
 
 <!--
 ### Prerequisites
@@ -51,8 +45,9 @@ This is not a course for advanced NorESM users.
     * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html): Easy to start with, but limited functionality
     * [Vim](https://www.openvim.com/): Very capable editor, requires some effort to get started
 - Source version control
--   * [Git](https://git-scm.com) is version control tool for source code and is already installed in the HPC server during the workshop
--   * [Github](www.github.com) is for collaborative work for software development and hosts NorESM sources.
+    * [Git](https://git-scm.com) is version control tool for source code and is already installed in the HPC server during the workshop
+    * It is useful if you have a basic idea of how Git works, but please go through [this Git-refresher material](https://coderefinery.github.io/git-refresher/) for a basic overview and important configuration steps.
+-   * [Github](https://www.github.com) is for collaborative work for software development and hosts NorESM sources.
 - Meeting softwares:
     * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop.
 
