@@ -75,7 +75,7 @@ exercises.
 
 ---
 Common session with [INES](https://www.ines.noresm.org) meeting \
-(<mark>Zoom meeting link will be send seperately. </mark>)
+(<mark>Non-compulsory to attend; Zoom meeting link will be send seperately. </mark>)
 
 - 13:00 - 13:30 (_Mats Bentsen, NORCE_)\
 <span style="color:royalblue"> Welcome and introduction </span>
