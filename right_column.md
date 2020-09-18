@@ -52,9 +52,6 @@ Also introduce the best practices and tools to contribute the development of doc
     * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop.
     * [HackMD](https://hackmd.io) will be used to write questions and answers. Please register a user account at HackMD before the workshop.
 
-### Participants
-There are 25 registered national and international partipants from Norway (NORCE, UiB, UiO, MET, NERSC, NTNU), Sweden (SU), Finland (FMI) and China (CAS)
-
 ### Helpers
 - Tomas Torsvik
 - Jerry Tjiputra
