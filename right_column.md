@@ -48,8 +48,9 @@ Also introduce the best practices and tools to contribute the development of doc
     * [Git](https://git-scm.com) is version control tool for source code and is already installed in the HPC server during the workshop
     * It is useful if you have a basic idea of how Git works, but please go through [this Git-refresher material](https://coderefinery.github.io/git-refresher/) for a basic overview and important configuration steps.
 -   * [Github](https://www.github.com) is for collaborative work for software development and hosts NorESM sources.
-- Meeting softwares:
+- Meeting softwares
     * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop.
+    * [HackMD](https://hackmd.io) will be used to write questions and answers. Please register a user account at HackMD before the workshop.
 
 ### Helpers
 - Tomas Torsvik
