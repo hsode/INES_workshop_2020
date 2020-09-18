@@ -10,7 +10,7 @@
 -->
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 
-([25 participants registered]({{ site.baseurl }}/participants/), 18/09/2020)
+([28 participants registered]({{ site.baseurl }}/participants/), 18/09/2020)
 
 ### Format
 
