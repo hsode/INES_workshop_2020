@@ -28,60 +28,60 @@ exercises.
 **Day 1 (September 21, Monday)**
 - 9:00 - 9:30 
   (_Mats Bentsen, NORCE_) \
-  [Introductions to the development of NorESM2](#)(link not available yet)
+  [Introductions to the development of NorESM2](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/Bentsen_NorESM_user_workshop_20200921.pdf)
 - 9:30 - 10:15
   (_Dirk Olive and Ada Gjermundsen, MET_) \
-  <span style="color:royalblue"> Presentation on new NorESM e-resources.(#)  </span>
+  Presentation on new NorESM e-resources.([Part1, code](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/eNorESMpart1.v1.0_Dirk_Olive.pdf); [Part2, documentation](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/NorES2_documentation_Ada_Gjermundsen.pdf))
 - 10:15 - 10:30 \
-  <span style="color:royalblue"> Coffee break   </span>
+  Coffee break  
 - 10:30 - 12:00
   (_Alok Gupta, NORCE_) \
-  <span style="color:royalblue"> Workflow on running NorESM2.(#) </span>
+  Workflow on running NorESM2.(#)
 - 12:00 - 13:00
-  <span style="color:royalblue"> Lunch break </span>
+  Lunch break
 - 13:00 - 15:30
-  <span style="color:royalblue"> Exercise 1.({{ site.baseurl }}#) </span>
+  Exercise 1.(#)
   (Helpers)
 
 **Day 2 (September 22, Tuesday)**
 - 9:00 - 12:00
-  <span style="color:royalblue"> Exercise 2.(#) </span>
+  Exercise 2.(#)
   (Helpers)
 - 12:00 - 13:00
-  <span style="color:royalblue"> Lunch break </span>
+  Lunch break
 
 - 13:00 - 14:00
   (_Yanchun He, NERSC_) \
-  <span style="color:royalblue"> Post-processing and diagnostics for NorESM output.(#) </span>
+  Post-processing and diagnostics for NorESM output.(#)
 - 14:00 - 14:15
-  <span style="color:royalblue"> Break </span>
+  Break
 - 14:15 - 15:30
-  <span style="color:royalblue"> Exercise 3.(#) </span>
+  Exercise 3.(#)
   (Helpers)
 
 **Day 3 (September 23, Wednesday)**
 - 9:00 - 10:15
-  <span style="color:royalblue"> Exercise 4.(#) </span>
+  Exercise 4.(#)
   (Helpers)
 - 10:15 - 10:30
-  <span style="color:royalblue"> Coffee break </span>
+  Coffee break
 - 10:30 - 12:00 (_Tomask Torsvik, UiB; Ada Gjermundsen, MET_)\
-  <span style="color:royalblue"> Presentation and discussion on how to contribute to NorESM (#) </span>
-    * <span style="color:royalblue"> Part 1: Contribution to code (10:30-11:15) </span>
-    * <span style="color:royalblue"> Part 2: Contribution to documentation (11:15-12:00) </span>
+  Presentation and discussion on how to contribute to NorESM (#)
+    * Part 1: Contribution to code (10:30-11:15)
+    * Part 2: Contribution to documentation (11:15-12:00)
 
 - 12:00 - 13:00
-  <span style="color:royalblue"> Lunch break </span>
+  Lunch break
 
 ---
 Common session with [INES](https://www.ines.noresm.org) meeting \
 (<mark>Non-compulsory to attend; Zoom meeting link will be send seperately. </mark>)
 
 - 13:00 - 13:30 (_Mats Bentsen, NORCE_)\
-<span style="color:royalblue"> Welcome and introduction </span>
+Welcome and introduction
 
 - 13:30 - 14:10 (_Mariana Vertenstein, UCAR/NCAR, USA_) \
-<span style="color:royalblue"> CESM Status and Current Infrastructure Efforts </span>
+CESM Status and Current Infrastructure Efforts
 
 - 14:10 - 14:40 (_Sylvie Joussaume, IPSL/LSCE, France_) \
-<span style="color:royalblue"> IS-ENES3 and French infrastructures </span>
+IS-ENES3 and French infrastructures
