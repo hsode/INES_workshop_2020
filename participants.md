@@ -40,7 +40,7 @@ so that we can add you to the breakout rooms during the hands-on/exercise sessio
 
 **Group-4:**
 * H.B.
-* H.S.
+* Harald Sodemann
 * M.M.
 * N-E.O.
 * Aleksi Nummelin (Helper)
