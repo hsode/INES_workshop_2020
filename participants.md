@@ -22,22 +22,26 @@ so that we can add you to the breakout rooms during the hands-on/exercise sessio
 * N.T.
 * S.U
 * Z.Z.
+* Alok Gupta/Yanchun He (Helper)
 
 **Group-2:**
 * A.A.
 * S.H.
 * T.B.
 * T.L.
+* Tomas Torsvik (Helper)
 
 **Group-3:**
 * H.G.
 * L.C.
 * O.H.O.
 * S.W.
+* Jerry Tjiputra (Helper)
 
 **Group-4:**
 * H.B.
 * H.S.
 * M.M.
 * N-E.O.
+* Aleksi Nummelin (Helper)
 
