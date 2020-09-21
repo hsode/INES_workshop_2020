@@ -36,11 +36,11 @@ exercises.
   Coffee break  
 - 10:30 - 12:00
   (_Alok Gupta, NORCE_) \
-  Workflow on running NorESM2.(#)
+  [Workflow on running NorESM2.](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/workflow.pdf)
 - 12:00 - 13:00
   Lunch break
 - 13:00 - 15:30
-  Exercise 1.(#)
+  [Exercise 1.](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/exercise1.pdf)
   (Helpers)
 
 **Day 2 (September 22, Tuesday)**
