@@ -9,4 +9,4 @@ Shared questions, answer, and feedback during/after the workshop (anonymized) fr
 - [HackMD, day 3] (Summary)
 
 ### Contact
-yanchun.he@@ners.no
+yanchun.he_at_nersc.no
